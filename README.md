@@ -33,18 +33,18 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-'''
+```
 page 1
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Exported Figma Design</title>
+ <!DOCTYPE html>
+ <html>
+ <head>
+   <meta charset="UTF-8">
+    <title>Exported Figma Design</title>
   
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<div class="iphone-16-1-1">
+    <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+ <div class="iphone-16-1-1">
 <img src="images/node-2.png" class="node-2" alt="whatsapp-image-2024-12-17-at-08-30-19_ccd4d2c0-1" />
 <p class="text-3">INDUSTRY 5.0</p>
 <p class="text-4">Ready curriculum imparting
@@ -668,7 +668,7 @@ page 3
 }
 
 
-'''
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (43).png>)
